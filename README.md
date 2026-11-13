@@ -1,6 +1,3 @@
-Here is a complete `README.md` file formatted for your machine learning practice project based on the provided notebook code.
-
----
 
 # Customer Purchase Prediction
 
